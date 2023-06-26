@@ -1,0 +1,18 @@
+{
+    "name": "com.madbox.cheatconsole",
+    "displayName": "Madbox Cheat Console",
+    "version": "0.1.0",
+    "unity": "2019.3",
+    "keywords": [
+        "console",
+        "madbox",
+        "debug",
+        "cheat",
+        "cheats"
+    ],
+    "category": "",
+    "description": "A simple package console/cheat menu made by Charlie Frost for the Madbox technical test.",
+    "dependencies": {
+        "com.unity.addressables": "1.18.19"
+    }
+}

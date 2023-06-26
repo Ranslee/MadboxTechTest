@@ -21,32 +21,38 @@ MonoBehaviour:
     m_Address: CombatScene
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   - m_GUID: fe189c0006577944eaa12ec9bdff3f0f
     m_Address: UI Atlas
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   - m_GUID: bac79aa2a0057e5429a664d3f336da3d
     m_Address: LongSword
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   - m_GUID: 17cf6e9fc28f3a544bc062d510f66f4a
     m_Address: GreatSword
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   - m_GUID: 4d0814cafad460246890ec829fa7071d
     m_Address: CurvedSword
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+  - m_GUID: 29991e1dbfe3f7449941fd0b263c1c15
+    m_Address: Packages/com.madbox.modules.console/Prefabs/Console.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e05b8d79987d53542b88f4c6a004403b
+    m_Address: Packages/com.madbox.cheatconsole/Prefabs/Cheats/CheatButton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60a85bee1801f8a40992c7ee6935ea7e
+    m_Address: Packages/com.madbox.cheatconsole/Prefabs/Cheats/CheatFloatField.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c57e3200f408c343b24ea08edc37092
+    m_Address: Packages/com.madbox.cheatconsole/Prefabs/CategoryButton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 2c2a01d9444a5c343a774372540cda35, type: 2}
   m_SchemaSet:
