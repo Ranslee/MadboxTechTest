@@ -42,7 +42,7 @@ Surprisingly, the most difficult part was setting up the gameplay code. There wa
 - While Trigger is a good component, I think it's overengineered for the job as it introduced a couple bugs i didnt have time to fix
 
 ## Potential additions
-> First of all
+### First of all
 - Documentation!
 
 ### Gameplay
