@@ -1,11 +1,11 @@
 # MadboxTechTest
-## INTRO
+## Intro
 Hello! My name is Charlie Frost and I hope you'll have a good time reviewing this technical test for a Senior Core Developer role.
 
-## TIME
+## Time
 The test took me 14 hours. I could have completed it in 8, but I had some extra time and was having a good time, so I decided to throw in some extra features.
 
-## FEATURE BREAKDOWN
+## Features
 ### General
 - I played fast and loose with nullchecks, avoiding them in most places. There are many approaches one can take here - I avoided them mostly so that if things break, they break fast and give a good callstack.
 - I did not create documentation as this readme is meant to serve that purpose. I'd add some comments but I ran out of time :)
@@ -32,16 +32,16 @@ The test took me 14 hours. I could have completed it in 8, but I had some extra 
 - Its design is very rough, but would make for a rough prototype made in a few hours, good for getting some initial feedback :)
 - It is shipped as a package and does not reference anything in the project.
 
-## DIFFICULT PARTS
+## Difficult parts
 Surprisingly, the most difficult part was setting up the gameplay code. There was some trouble with the NavMesh component. At the end, I encountered a build-only bug caused by default implementation of interface comparisons. I think I got a bit rusty from all the system and optimization work I've been doing. For everything else I had a clear vision.
 
-## WHAT I COULD DO BETTER
+## What I could do better
 - I think I have spread myself a bit too thin, the Debug Console package might have been a bit too much to handle, but oh well - I get to show it :)
 - Documentation is very important, some code and files would be the next thing to focus on
 - I don't like how the cheat entries have to unpack the cheat type, I think it could be solved with some generics.
 - While Trigger is a good component, I think it's overengineered for the job as it introduced a couple bugs i didnt have time to fix
 
-## POTENTIAL ADDITIONS
+## Potential additions
 > First of all
 - Documentation!
 
